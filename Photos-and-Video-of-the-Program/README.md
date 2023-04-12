@@ -3,7 +3,7 @@
 In this section, there are video and photos of the program when it is running.
 
 Video:
-+ Car Monitoring System.mkv (The video of the program from the beginning to the end)
++ Car Monitoring System X6.mkv (The video of the program from the beginning to the end)
 
 Photos:
 + Car
@@ -13,6 +13,6 @@ Photos:
 در این قسمت، فیلم و عکس هایی از برنامه در حال اجرا قرار داده شده است.
 
 فیلم:
-+ Car Monitoring System.mkv (فیلم اجرای برنامه از اول تا آخر)
++ Car Monitoring System X6.mkv (فیلم اجرای برنامه از اول تا آخر)
 
 عکس ها:
