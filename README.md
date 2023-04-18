@@ -6,6 +6,6 @@ The programming language is Python.
 
 ----
 
-Step 1) Dataset
+Step 1) Create Dataset
 
 Step 2) Playback
