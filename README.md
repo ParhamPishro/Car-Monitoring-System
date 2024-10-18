@@ -1,8 +1,8 @@
 # Car-Monitoring-System
 
-🇬🇧 EN:
+English:
 
-In this project, the goal is to store the movement path of the cars, replay the path traveled by them, their speed at any moment, display the origin and destination and the distance between them, coordinates and display the map.
+In this project, the goal is to store the cars' movement paths, replay their paths and speeds at any moment, display their origin and destination and the distance between them, and display the coordinates and map.
 
 The programming language is Python.
 
@@ -15,10 +15,10 @@ The programming language is Python.
 **Step 1) Create Dataset:** The dataset of this project consists of 10 separate routes traveled
 by 10 different cars. Each route is a sequence of different points. In this data, it has been assumed that
 we have 10 cars, each with a route including 3000 points.
-Since each point represents a geographic location, to display it must used latitude and longitude.
+Since each point represents a geographic location, to display it must use latitude and longitude.
 
-In order to create the dataset, you must first create 10 different cars, each of which has a different name,
-company, and year (this information must be entered by the user through the GUI);
+To create the dataset, you must first create 10 different cars, each of which has a different name,
+company, and year (the user must enter this information through the GUI);
 Then the route of each car, which contains 3000 points, should be built (the longitude and latitude of the starting
 point is entered by the user, and the other points should be built randomly).
 The 10 created cars along with their route should be saved in a file called car-dataset.txt.
@@ -47,7 +47,7 @@ the destination, and the distance between them.
 
 ---
 
-:iran: FA:
+Persian:
 
 در این پروژه، هدف ذخیره مسیر حرکت خودروها، پخش مجدد مسیر طی شده توسط آن ها، سرعت آن ها در هر لحظه، نمایش مبدا و مقصد و فاصله بین آن ها، مختصات و نمایش نقشه است.
 
