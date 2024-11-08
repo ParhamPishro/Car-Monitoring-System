@@ -27,11 +27,11 @@ that the creation of the data is successful.
 
 
 **Step 2) Playback:** In this section, the facilities provided to the user will include the following:
-+ By clicking the Start button, the program starts reading the data file and displays one point of each car's route
++ By clicking the Start button, the program reads the data file and displays one point of each car's route
 every second.
 + By clicking the 2x button, the speed of displaying information will be doubled
 (one point will be displayed every 0.5 seconds).
-+ By clicking the 4x button, the speed of displaying information will be 4 times
++ By clicking the 4x button, the display speed will be 4 times
 (one point will be displayed every 0.25 seconds).
 + By clicking the 8x button, the speed of displaying information will be 8 times
 (one point will be displayed every 0.125 seconds).
@@ -39,10 +39,10 @@ every second.
 (without stopping).
 + By clicking the Pause button, the reading of the points will stop.
 + By clicking the Restart button, the reading of the points will start from the beginning.
-+ By clicking on the Map button, the distance traveled by the car between the origin and destination points
++ By clicking on the Map button, the distance the car travels between the origin and destination points
 will be displayed.
 + information that will be displayed to the user; including car information, car coordinates
-(longitude and latitude), the speed of the car at the moment ,the minimum and maximum speed of the car, the origin,
+(longitude and latitude), the speed of the car at the moment, the minimum and maximum speed of the car, the origin,
 the destination, and the distance between them.
 
 ---
